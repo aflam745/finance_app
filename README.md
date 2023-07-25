@@ -1,1 +1,1 @@
-A powerful personal finance managment applications that also does risk managment.
+A powerful personal finance management applications that also does risk management.
